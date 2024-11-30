@@ -88,7 +88,7 @@ ROS-пакеты (общие для Windows и macOS):
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://[github.com/yourusername/your-repo-name.git](https://github.com/R0mBab/DroneControlPro)
     ```
 2. Перейдите в директорию проекта:
     ```bash
