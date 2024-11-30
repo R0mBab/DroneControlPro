@@ -6,5 +6,5 @@ DroneControlPro
 - [English](README_en.md)
 
 
-![Project Logo](logo.png)
+![Project Logo](SIX_FINGERS.png)
 
